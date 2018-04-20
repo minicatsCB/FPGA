@@ -113,7 +113,7 @@
           "id": "f930d628-6223-43fb-9e66-9eccb0d4a986",
           "type": "basic.output",
           "data": {
-            "name": "S0",
+            "name": "S2",
             "pins": [
               {
                 "index": "0",
@@ -1443,10 +1443,10 @@
     },
     "state": {
       "pan": {
-        "x": 658.3457,
-        "y": 351.0965
+        "x": 337.6147,
+        "y": 140.3211
       },
-      "zoom": 0.3706
+      "zoom": 0.3
     }
   },
   "dependencies": {
