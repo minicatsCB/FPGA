@@ -26,5 +26,5 @@ Inside an FPGA we can implement the digital circuits we want. It doesn't need to
 Let's go!
 
 ## 🔝 resources
-- 📖 Book ["CODE" de Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- 📖 Book ["CODE"](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold.
 - 🔗 [FPGA Wars](http://fpgawars.github.io/). Nice community to get started and learn about FPGA's. Among others, led by the great [Obijuan](https://github.com/Obijuan).
