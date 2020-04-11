@@ -23,7 +23,7 @@ adentrarme en el mundo hardware, fuera un tema actual y, que a la vez, tuviera u
 
 Dentro de una FPGA podemos implementar los circuitos digitales que queramos. No tiene por qué ser un microprocesador. Puede ser cualquier tipo de circuito, sea más o menos complejo. Puedes "jugar" con hardware. Crear un microprocesador era demasiado complejo y difícil sin ninguna duda, por lo que con la ayuda de mi tutor elegimos implementar una ALU. Además, las FPGAs tienen muchas aplicaciones prácticas, de hecho algunas grandes empresas como Intel, Amazon o Microsoft las están usando en sus procesos. Desde aquí, continuó mi trabajo.
 
-Vamos a ello!
+¡Vamos a ello!
 
 ## Recursos 🔝
 - 📖 Libro ["CODE" de Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
