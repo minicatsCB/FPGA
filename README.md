@@ -7,7 +7,7 @@ Student: María Isabel Díaz Galiano
 
 Mentor: José Jesús García Rueda
 <br/><br/>
-*Read in 🇪🇸 Spanish [here](https://github.com/minicatsCB/FPGA/blob/master/README.md).*
+*Read in 🇪🇸 Spanish [here](https://github.com/minicatsCB/FPGA/blob/master/README.es.md).*
 
 ## What
 Analysis of the operation of a Field Programmable Gate Arrays (FPGA) board and an Arithmetic Logic Unit (ALU), and following implementation of the latter in the FPGA [Alhambra board](https://alhambrabits.com/alhambra/) using the open-source software [IceStudio](https://github.com/FPGAwars/icestudio), DYI PCB (Printed Circuit Board) and 3D printed pieces.
