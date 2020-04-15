@@ -1,4 +1,4 @@
-# Implementation of an ALU on a FPGA
+# Implementation of an ALU in a FPGA
 Final project for Bachelor's degree in Software Engineering (Ingeniería en Desarrollo de Contenidos Digitales)
 
 U-tad (Centro Universitario de Tecnología y Arte Digital). 2014-2018
